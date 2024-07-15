@@ -12,12 +12,10 @@
 **M.Eng. in Computer Science and Technology**  
 *Beijing Language and Culture University*  
 *September 2021 - July 2024*  
-- GPA: 3.67/4
 
 **B.Eng. in Computer Science and Technology**  
 *Sichuan University*  
 *September 2017 - July 2021*  
-- GPA: 3.41/4
 
 ## Research Publications
 
