@@ -17,6 +17,17 @@
 *Sichuan University*  
 *September 2017 - July 2021*  
 
+## Research Experience
+
+**Research Intern**  
+*THUNLP, Tsinghua University*  
+*April 2023 - July 2024*  
+- Conducting NLP research under the supervision of [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ&hl=en), Ph.D.
+- Distilled table reasoning skills from LLMs to small PLMs.
+- Developed LLM agents for scientific data visualization.
+- Curated multilingual SFT data.
+- Participated in devising an agent framework for processing long context inputs.
+
 ## Research Publications
 
 ### [MatPlotAgent](https://arxiv.org/abs/2402.11453) - ACL 2024 Findings (First Author)
@@ -33,17 +44,6 @@
 - **Authors:** Zhiyu Yang, Shuo Wang, Yukun Yan, Pengyuan Liu, Dong Yu.
 - **Summary:** Proposed a knowledge distillation method for table QA tasks using relevant-cell-based rationales, achieving SOTA results on the FeTaQA benchmark.
 - **Contribution:** Developed the distillation method, conducted experiments, and authored the paper.
-
-## Research Experience
-
-**Research Intern**  
-*THUNLP, Tsinghua University*  
-*April 2023 - July 2024*  
-- Conducting NLP research under the supervision of [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ&hl=en), Ph.D.
-- Distilled table reasoning skills from LLMs to small PLMs.
-- Developed LLM agents for scientific data visualization.
-- Curated multilingual SFT data.
-- Participated in devising an agent framework for processing long context inputs.
 
 ## Projects
 
