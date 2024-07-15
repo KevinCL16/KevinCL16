@@ -1,6 +1,6 @@
 ## Hi there 👋
-## I am seeking a Ph.D. position!
-## Excited for the future of AI, want to be a part of it!
+**I am seeking a Ph.D. position!** 
+**Excited for the future of AI, want to be a part of it!**
 
 # Zhiyu Yang 🏎️⚽🤖
 
