@@ -3,7 +3,7 @@
 # Zhiyu Yang
 
 **Email:** kelvin.yangzhiyu@outlook.com  
-**Location:** Beijing, China
+**Hometown:** Chengdu, China
 
 [GitHub](https://github.com/KevinCL16) | [Google Scholar](https://scholar.google.com/citations?user=KLbbYf0AAAAJ&hl=en)
 
