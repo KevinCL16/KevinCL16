@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Zhiyu Yang
+# Zhiyu Yang 🏎️⚽🤖
 
 **Email:** kelvin.yangzhiyu@outlook.com  
 **Hometown:** Chengdu, China
@@ -38,10 +38,12 @@
 
 **Research Intern**  
 *THUNLP, Tsinghua University*  
-*April 2023 - Present*  
-- Conducting NLP research under the supervision of Shuo Wang, Ph.D.
-- Developed LLM agents for scientific visualization and multilingual SFT data.
-- Leading a team to devise an agent framework for processing long context inputs.
+*April 2023 - July 2024*  
+- Conducting NLP research under the supervision of [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ&hl=en), Ph.D.
+- Distilled table reasoning skills from LLMs to small PLMs.
+- Developed LLM agents for scientific data visualization.
+- Curated multilingual SFT data.
+- Participated in devising an agent framework for processing long context inputs.
 
 ## Projects
 
