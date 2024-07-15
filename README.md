@@ -52,8 +52,8 @@
 - Fine-tuned Facebook AI’s MUPPET model for optimal performance.
 
 ### Garbage Image Classification Based on Deep Neural Networks - 2021
-- Proposed a novel image classification deep neural network architecture.
-- Achieved superior performance compared to mainstream models on a Huawei Cloud Competition dataset.
+- Proposed a novel garbage classification deep neural network architecture.
+- Achieved superior performance compared to mainstream models on a Huawei Cloud Garbage Classification Competition dataset.
 
 ## Skills
 
@@ -65,7 +65,7 @@
 - Python, C++, Java
 
 ### Tools and Frameworks
-- PyTorch, Huggingface, PyG, Keras, TensorFlow 2, Linux, Android Studio, vllm, LangChain, Matplotlib, Numpy, Pandas
+- PyTorch, Huggingface, PyG, Keras, TensorFlow 2, Linux, Android Studio, vLLM, Matplotlib, Numpy, Pandas
 
 ### Deep Learning
 - Convolutional Neural Networks, Pre-trained NLU and NLG models, LLMs
