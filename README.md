@@ -38,12 +38,12 @@
 ## Research Publications
 
 ### [MatPlotAgent](https://arxiv.org/abs/2402.11453) - ACL 2024 Findings (First Author)
-- **Authors:** Zhiyu Yang, Zihan Zhou, Shuo Wang, Xin Cong, Xu Han, Yukun Yan, Zhenghao Liu, Zhixing Tan, Pengyuan Liu, Dong Yu, Zhiyuan Liu, Xiaodong Shi, Maosong Sun.
+- **Authors:** **Zhiyu Yang**, Zihan Zhou, Shuo Wang, Xin Cong, Xu Han, Yukun Yan, Zhenghao Liu, Zhixing Tan, Pengyuan Liu, Dong Yu, Zhiyuan Liu, Xiaodong Shi, Maosong Sun.
 - **Summary:** Introduced MatPlotBench for automatic evaluation of AI methods for scientific data visualization. Proposed MatPlotAgent, a framework using visual feedback to enhance LLM performance.
 - **Contribution:** Designed the agent framework and evaluation method, conducted experiments, and curated data for MatPlotBench.
 
 ### [UltraLink](https://arxiv.org/abs/2402.04588) - ACL 2024 (Fifth Author)
-- **Authors:** Haoyu Wang, Shuo Wang, Yukun Yan, Xujia Wang, Zhiyu Yang, Yuzhuang Xu, Zhenghao Liu, Liner Yang, Ning Ding, Xu Han, Zhiyuan Liu, Maosong Sun.
+- **Authors:** Haoyu Wang, Shuo Wang, Yukun Yan, Xujia Wang, **Zhiyu Yang**, Yuzhuang Xu, Zhenghao Liu, Liner Yang, Ning Ding, Xu Han, Zhiyuan Liu, Maosong Sun.
 - **Summary:** Developed a multilingual SFT dataset with language-specific and language-agnostic subsets using knowledge-enhanced data augmentation methods with Wikipedia as knowledge source.
 - **Contribution:** Concretized the paper's idea, designed initial prompt templates for data synthesis, and revised the paper.
 
@@ -53,6 +53,10 @@
 - **Contribution:** Developed the distillation method, conducted experiments, and authored the paper.
 
 ## Projects
+
+### CCl 2024 System Demonstration: MatPlotAgent - 2024
+- Converted MatPlotAgent into an interactive online demo.
+- Demonstrated its workflow and performance to scholars attending CCL 2024.
 
 ### SemEval 2022 Task 7 (Rank: 9) - 2021
 - Explored various pre-trained language models for understanding the plausibility of implicit and underspecified texts.
