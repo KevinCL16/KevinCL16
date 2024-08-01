@@ -54,7 +54,7 @@
 
 ## Projects
 
-### CCl 2024 System Demonstration: MatPlotAgent - 2024
+### CCL 2024 System Demonstration: MatPlotAgent - 2024
 - Converted MatPlotAgent into an interactive online demo.
 - Demonstrated its workflow and performance to scholars attending CCL 2024.
 
