@@ -48,7 +48,7 @@
 - **Contribution:** Concretized the paper's idea, designed initial prompt templates for data synthesis, and revised the paper.
 
 ### Enhancing Free-Form Table Question Answering Models by Distilling Relevant-Cell-Based Rationales - CCL 2024 (First Author)
-- **Authors:** Zhiyu Yang, Shuo Wang, Yukun Yan, Pengyuan Liu, Dong Yu.
+- **Authors:** **Zhiyu Yang**, Shuo Wang, Yukun Yan, Pengyuan Liu, Dong Yu.
 - **Summary:** Proposed a knowledge distillation method for table QA tasks using relevant-cell-based rationales, achieving SOTA results on the FeTaQA benchmark.
 - **Contribution:** Developed the distillation method, conducted experiments, and authored the paper.
 
