@@ -1,7 +1,7 @@
 ## Hi there 👋
 **I am seeking a Ph.D. position!** 
 
-**Incoming RA @ Singapore Management University**
+**RA @ Singapore Management University**
 
 **Prev. Research Intern @ THUNLP**
 
@@ -26,8 +26,14 @@
 
 ## Research Experience
 
-**Research Intern**  
-*THUNLP, Tsinghua University*  
+### Research Assistant
+***Singapore Management University***  
+*Sept 2024 - present*  
+- Conducting LLM research under the supervision of Professor [Yang Deng](https://dengyang17.github.io/).
+- Exploring LLM as educational agents for data science tasks.
+
+### Research Intern  
+***THUNLP, Tsinghua University***  
 *April 2023 - July 2024*  
 - Conducting NLP research under the supervision of [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ&hl=en), Ph.D.
 - Distilled table reasoning skills from LLMs to small PLMs.
