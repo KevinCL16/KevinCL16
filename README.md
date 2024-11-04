@@ -30,7 +30,7 @@
 ***Singapore Management University***  
 *Sept 2024 - present*  
 - Conducting LLM research under the supervision of Professor [Yang Deng](https://dengyang17.github.io/).
-- Exploring LLM as educational agents for data science tasks.
+- Exploring LLMs' capabilities to identify and explain logical errors in data analysis processes.
 
 ### Research Intern  
 ***THUNLP, Tsinghua University***  
