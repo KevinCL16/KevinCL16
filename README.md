@@ -30,7 +30,15 @@
 ***Singapore Management University***  
 *Sept 2024 - present*  
 - Conducting LLM research under the supervision of Professor [Yang Deng](https://dengyang17.github.io/).
-- Exploring LLMs' capabilities to identify and explain logical errors in data analysis processes.
+- Exploring LLMs' capabilities to identify and explain logical errors in data analysis code.
+
+### Research Intern
+***Modelbest Co. Ltd. & OpenBMB***  
+*April 2024 - July 2024*
+- Worked during the initial phase of devising an agent framework [LLM×MapReduce](https://github.com/thunlp/LLMxMapReduce) to adapt regular LLMs to process long
+context inputs.
+- Serving as a team leader, devising research plans, guiding interns into our research group, participating in discussion and
+collaboration with fellow senior interns.
 
 ### Research Intern  
 ***THUNLP, Tsinghua University***  
