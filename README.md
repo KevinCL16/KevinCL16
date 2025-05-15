@@ -1,7 +1,7 @@
 ## Hi there 👋
-**I am seeking a Ph.D. position!** 
+**Incoming Ph.D. @ University of Texas at Dallas!** 
 
-**RA @ Singapore Management University**
+**Prev. RA @ Singapore Management University**
 
 **Prev. Research Intern @ THUNLP**
 
