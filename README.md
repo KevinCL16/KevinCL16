@@ -1,5 +1,5 @@
 ## Hi there 👋
-**Incoming Ph.D. @ University of Texas at Dallas!** 
+**Ph.D. @ University of Texas at Dallas!** 
 
 **Prev. RA @ Singapore Management University**
 
@@ -16,6 +16,10 @@
 
 ## Education
 
+**Ph.D. in Computer Science and Technology**  
+*University of Texas at Dallas*  
+*September 2025 - now*  
+
 **M.Eng. in Computer Science and Technology**  
 *Beijing Language and Culture University*  
 *September 2021 - July 2024*  
@@ -28,9 +32,9 @@
 
 ### Research Assistant
 ***Singapore Management University***  
-*Sept 2024 - present*  
+*Sept 2024 - April 2025*  
 - Conducting LLM research under the supervision of Professor [Yang Deng](https://dengyang17.github.io/).
-- Exploring LLMs' capabilities to identify and explain logical errors in data analysis code.
+- Exploring LLMs' capabilities to identify and explain multi-hop and multiple logical errors in data analysis code.
 
 ### Research Intern
 ***Modelbest Co. Ltd. & OpenBMB***  
