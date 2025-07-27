@@ -55,6 +55,11 @@ collaboration with fellow senior interns.
 
 ## Research Publications
 
+### [Why Stop at One Error? Benchmarking LLMs as Data Science Code Debuggers for Multi-Hop and Multi-Bug Errors](https://arxiv.org/abs/2503.22388) - preprint (First Author)
+- **Authors:** **Zhiyu Yang**, Shuo Wang, Yukun Yan, Yang Deng.
+- **Summary:** Introduced DSDBench, a challenging benchmark built via an automated framework to test LLMs on realistic data science code with multiple, multi-hop bugs. Our findings reveal that even top models  struggle to trace error origins and achieve complete bug detection, exposing a critical gap in their reasoning and debugging capabilities.
+- **Contribution:** I designed the DSDBench dataset construction pipeline, implemented the automated error injection framework, and conducted experiments to evaluate state-of-the-art LLMs, revealing critical performance gaps in dynamic debugging.
+
 ### [MatPlotAgent](https://arxiv.org/abs/2402.11453) - ACL 2024 Findings (First Author)
 - **Authors:** **Zhiyu Yang**, Zihan Zhou, Shuo Wang, Xin Cong, Xu Han, Yukun Yan, Zhenghao Liu, Zhixing Tan, Pengyuan Liu, Dong Yu, Zhiyuan Liu, Xiaodong Shi, Maosong Sun.
 - **Summary:** Introduced MatPlotBench for automatic evaluation of AI methods for scientific data visualization. Proposed MatPlotAgent, a framework using visual feedback to enhance LLM performance.
