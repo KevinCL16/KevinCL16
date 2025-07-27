@@ -18,7 +18,7 @@
 
 **Ph.D. in Computer Science and Technology**  
 *University of Texas at Dallas*  
-*September 2025 - now*  
+*August 2025 - now*  
 
 **M.Eng. in Computer Science and Technology**  
 *Beijing Language and Culture University*  
