@@ -70,7 +70,7 @@ collaboration with fellow senior interns.
 - **Summary:** Developed a multilingual SFT dataset with language-specific and language-agnostic subsets using knowledge-enhanced data augmentation methods with Wikipedia as knowledge source.
 - **Contribution:** Concretized the paper's idea, designed initial prompt templates for data synthesis, and revised the paper.
 
-### Enhancing Free-Form Table Question Answering Models by Distilling Relevant-Cell-Based Rationales - CCL 2024 (First Author)
+### [Enhancing Free-Form Table Question Answering Models by Distilling Relevant-Cell-Based Rationales](https://aclanthology.org/2024.ccl-1.75/) - CCL 2024 (First Author)
 - **Authors:** **Zhiyu Yang**, Shuo Wang, Yukun Yan, Pengyuan Liu, Dong Yu.
 - **Summary:** Proposed a knowledge distillation method for table QA tasks using relevant-cell-based rationales, achieving SOTA results on the FeTaQA benchmark.
 - **Contribution:** Developed the distillation method, conducted experiments, and authored the paper.
