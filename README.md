@@ -55,7 +55,7 @@ collaboration with fellow senior interns.
 
 ## Research Publications
 
-### [Why Stop at One Error? Benchmarking LLMs as Data Science Code Debuggers for Multi-Hop and Multi-Bug Errors](https://arxiv.org/abs/2503.22388) - preprint (First Author)
+### [Why Stop at One Error? Benchmarking LLMs as Data Science Code Debuggers for Multi-Hop and Multi-Bug Errors](https://arxiv.org/abs/2503.22388) - EMNLP 2025 (First Author)
 - **Authors:** **Zhiyu Yang**, Shuo Wang, Yukun Yan, Yang Deng.
 - **Summary:** Introduced DSDBench, a challenging benchmark built via an automated framework to test LLMs on realistic data science code with multiple, multi-hop bugs. Our findings reveal that even top models  struggle to trace error origins and achieve complete bug detection, exposing a critical gap in their reasoning and debugging capabilities.
 - **Contribution:** I designed the DSDBench dataset construction pipeline, implemented the automated error injection framework, and conducted experiments to evaluate state-of-the-art LLMs, revealing critical performance gaps in dynamic debugging.
