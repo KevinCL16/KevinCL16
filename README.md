@@ -1,5 +1,5 @@
 ## Hi there 👋
-**Ph.D. @ University of Texas at Dallas!** 
+**Ph.D. @ University of Texas at Dallas, advised by [Prof. Jessica Ouyang](https://personal.utdallas.edu/~jessica.ouyang/)!** 
 
 **Prev. RA @ Singapore Management University**
 
@@ -16,64 +16,75 @@
 
 ## Education
 
-**Ph.D. in Computer Science and Technology**  
+**Ph.D. in Computer Science**  
 *University of Texas at Dallas*  
 *August 2025 - now*  
+- Advised by [Prof. Jessica Ouyang](https://personal.utdallas.edu/~jessica.ouyang/).
 
 **M.Eng. in Computer Science and Technology**  
 *Beijing Language and Culture University*  
 *September 2021 - July 2024*  
+- GPA: 3.67/4.0
 
 **B.Eng. in Computer Science and Technology**  
 *Sichuan University*  
 *September 2017 - July 2021*  
+- GPA: 3.41/4.0, GPA (last 60 credit hours): 3.64/4.0
 
 ## Research Experience
 
 ### Research Assistant
 ***Singapore Management University***  
-*Sept 2024 - April 2025*  
-- Conducting LLM research under the supervision of Professor [Yang Deng](https://dengyang17.github.io/).
-- Exploring LLMs' capabilities to identify and explain multi-hop and multiple logical errors in data analysis code.
+*Sept 2024 - March 2025*  
+- Conducted LLM research under the supervision of Professor [Yang Deng](https://dengyang17.github.io/).
+- Developed benchmarks for evaluating LLMs' capabilities in identifying and reproducing debugger information for multiple and multi-hop logical errors in data analysis code.
+- This work was published at EMNLP 2025 Main as an Oral presentation.
 
 ### Research Intern
-***Modelbest Co. Ltd. & OpenBMB***  
+***ModelBest Co. Ltd. & OpenBMB***  
 *April 2024 - July 2024*
-- Worked during the initial phase of devising an agent framework [LLM×MapReduce](https://github.com/thunlp/LLMxMapReduce) to adapt regular LLMs to process long
-context inputs.
-- Serving as a team leader, devising research plans, guiding interns into our research group, participating in discussion and
-collaboration with fellow senior interns.
+- Worked during the initial phase of devising the agent framework [LLM×MapReduce](https://github.com/thunlp/LLMxMapReduce) to adapt regular LLMs to process long-context inputs.
+- Served as a team leader, devised research plans, guided interns into our research group, and collaborated with fellow senior interns.
 
 ### Research Intern  
 ***THUNLP, Tsinghua University***  
 *April 2023 - July 2024*  
-- Conducting NLP research under the supervision of [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ&hl=en), Ph.D.
-- Distilled table reasoning skills from LLMs to small PLMs.
+- Conducted NLP research under the supervision of [Shuo Wang](https://scholar.google.com/citations?user=5vm5yAMAAAAJ&hl=en), Ph.D.
 - Developed LLM agents for scientific data visualization.
-- Curated multilingual SFT data.
-- Participated in devising an agent framework for processing long context inputs.
+- Worked on multilingual SFT data for LLMs.
+- Led research planning and coordinated co-authors throughout the research process.
 
 ## Research Publications
 
-### [Why Stop at One Error? Benchmarking LLMs as Data Science Code Debuggers for Multi-Hop and Multi-Bug Errors](https://arxiv.org/abs/2503.22388) - EMNLP 2025 Oral (First Author)
+### [Why Stop at One Error? Benchmarking LLMs as Data Science Code Debuggers for Multi-Hop and Multi-Bug Errors](https://aclanthology.org/2025.emnlp-main.878/) - EMNLP 2025 Main Oral (First Author)
 - **Authors:** **Zhiyu Yang**, Shuo Wang, Yukun Yan, Yang Deng.
-- **Summary:** Introduced DSDBench, a challenging benchmark built via an automated framework to test LLMs on realistic data science code with multiple, multi-hop bugs. Our findings reveal that even top models  struggle to trace error origins and achieve complete bug detection, exposing a critical gap in their reasoning and debugging capabilities.
-- **Contribution:** I designed the DSDBench dataset construction pipeline, implemented the automated error injection framework, and conducted experiments to evaluate state-of-the-art LLMs, revealing critical performance gaps in dynamic debugging.
+- **Summary:** Introduced DSDBench, the first benchmark for evaluating LLMs on multi-hop error tracing and multi-bug detection in data science code debugging, featuring 1,117 annotated samples with realistic logical errors.
+- **Contribution:** Designed the DSDBench dataset construction pipeline, implemented the automated error injection framework, and conducted experiments to evaluate state-of-the-art LLMs, revealing critical performance gaps in dynamic debugging.
 
-### [MatPlotAgent](https://arxiv.org/abs/2402.11453) - ACL 2024 Findings (First Author)
+### [MatPlotAgent: Method and Evaluation for LLM-Based Agentic Scientific Data Visualization](https://aclanthology.org/2024.findings-acl.701/) - ACL 2024 Findings (First Author)
 - **Authors:** **Zhiyu Yang**, Zihan Zhou, Shuo Wang, Xin Cong, Xu Han, Yukun Yan, Zhenghao Liu, Zhixing Tan, Pengyuan Liu, Dong Yu, Zhiyuan Liu, Xiaodong Shi, Maosong Sun.
-- **Summary:** Introduced MatPlotBench for automatic evaluation of AI methods for scientific data visualization. Proposed MatPlotAgent, a framework using visual feedback to enhance LLM performance.
+- **Summary:** Introduced MatPlotBench, a benchmark for automatic quantitative evaluation of AI methods for scientific data visualization. Proposed MatPlotAgent, an LLM agent framework using visual feedback to improve model performance.
 - **Contribution:** Designed the agent framework and evaluation method, conducted experiments, and curated data for MatPlotBench.
 
-### [UltraLink](https://arxiv.org/abs/2402.04588) - ACL 2024 (Fifth Author)
-- **Authors:** Haoyu Wang, Shuo Wang, Yukun Yan, Xujia Wang, **Zhiyu Yang**, Yuzhuang Xu, Zhenghao Liu, Liner Yang, Ning Ding, Xu Han, Zhiyuan Liu, Maosong Sun.
-- **Summary:** Developed a multilingual SFT dataset with language-specific and language-agnostic subsets using knowledge-enhanced data augmentation methods with Wikipedia as knowledge source.
-- **Contribution:** Concretized the paper's idea, designed initial prompt templates for data synthesis, and revised the paper.
-
-### [Enhancing Free-Form Table Question Answering Models by Distilling Relevant-Cell-Based Rationales](https://aclanthology.org/2024.ccl-1.75/) - CCL 2024 (First Author)
+### [Enhancing Free-Form Table Question Answering Models by Distilling Relevant-Cell-Based Rationales](https://aclanthology.org/2024.ccl-1.75/) - CCL 2024 Poster (First Author)
 - **Authors:** **Zhiyu Yang**, Shuo Wang, Yukun Yan, Pengyuan Liu, Dong Yu.
-- **Summary:** Proposed a knowledge distillation method for table QA tasks using relevant-cell-based rationales, achieving SOTA results on the FeTaQA benchmark.
-- **Contribution:** Developed the distillation method, conducted experiments, and authored the paper.
+- **Summary:** Developed a knowledge distillation method for free-form table question answering using relevant-cell-based rationales, achieving state-of-the-art results on the FeTaQA benchmark.
+- **Contribution:** Proposed the core method, conducted all experiments, and authored the paper.
+
+### [CompactRAG: Reducing LLM Calls and Token Overhead in Multi-Hop Question Answering](https://arxiv.org/abs/2602.05728) - WWW 2026 (Second Author)
+- **Authors:** Hao Yang, **Zhiyu Yang**, Xupeng Zhang, Wei Wei, Yunjie Zhang, Lin Yang.
+- **Summary:** Proposed CompactRAG, a cost-efficient multi-hop QA framework that decouples offline corpus restructuring from online reasoning.
+- **Contribution:** Contributed to a framework that reduces LLM invocation to only two calls during inference while maintaining competitive performance on HotpotQA, 2WikiMultiHopQA, and MuSiQue.
+
+### [Rethinking the Chain-of-Thought: The Roles of In-Context Learning and Pre-trained Priors](https://arxiv.org/abs/2509.01236) - ICIC 2025 (Second Author)
+- **Authors:** Hao Yang, **Zhiyu Yang**, Yunjie Zhang, Shanyi Zhu, Lin Yang.
+- **Summary:** Studied the mechanisms behind chain-of-thought reasoning from the dual perspectives of in-context learning and pre-trained priors.
+- **Contribution:** Conducted lexical-level rationale analysis and noisy-exemplar experiments to examine how models balance learned priors with in-context signals.
+
+### [UltraLink: An Open-Source Knowledge-Enhanced Multilingual Supervised Fine-tuning Dataset](https://aclanthology.org/2024.acl-long.644/) - ACL 2024 (Fifth Author)
+- **Authors:** Haoyu Wang, Shuo Wang, Yukun Yan, Xujia Wang, **Zhiyu Yang**, Yuzhuang Xu, Zhenghao Liu, Ning Ding, Xu Han, Zhiyuan Liu, Maosong Sun.
+- **Summary:** Proposed a multilingual SFT dataset with both language-specific and language-agnostic subsets.
+- **Contribution:** Helped concretize the paper's idea, designed initial prompt templates for data synthesis, and revised the paper.
 
 ## Projects
 
@@ -87,7 +98,7 @@ collaboration with fellow senior interns.
 
 ### Garbage Image Classification Based on Deep Neural Networks - 2021
 - Proposed a novel garbage classification deep neural network architecture.
-- Achieved superior performance compared to mainstream models on a Huawei Cloud Garbage Classification Competition dataset.
+- Achieved superior performance compared to mainstream models on a Huawei Cloud garbage classification dataset.
 
 ## Skills
 
@@ -99,7 +110,7 @@ collaboration with fellow senior interns.
 - Python, C++, Java
 
 ### Tools and Frameworks
-- PyTorch, Huggingface, PyG, Keras, TensorFlow 2, Linux, Android Studio, vLLM, Matplotlib, Numpy, Pandas
+- PyTorch, Hugging Face, PyG, Keras, TensorFlow 2, Linux, Android Studio, vLLM, Matplotlib, NumPy, Pandas
 
 ### Deep Learning
 - Convolutional Neural Networks, Pre-trained NLU and NLG models, LLMs
